@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt install -y apache2
+sudo apt-get install dos2unix
