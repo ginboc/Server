@@ -44,7 +44,7 @@ if (isset($_POST['submit'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login</title>
+    <title>Login 2</title>
 <style>
         body {
             display: flex;
